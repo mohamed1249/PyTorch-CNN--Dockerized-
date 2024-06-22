@@ -195,12 +195,12 @@ CMD ["flask", "run"]
 
 1. **Build the Docker image**
     ```sh
-    docker build -t langflow-ui .
+    docker build -t pytorch-flask-app .
     ```
 
 2. **Run the Docker container**
     ```sh
-    docker run -p 5000:5000 langflow-ui
+    docker run -p 5000:5000 pytorch-flask-app
     ```
 
 3. **Send a classification request**
