@@ -175,7 +175,7 @@ CMD ["flask", "run"]
 ### Steps Taken
 
 1. **Downloaded data**
-    - Collected and organized insect images into a directory named `selected_insects`.
+    - Collected and organized insect images into a directory named `selected_insects`. You can find the dataset here: https://www.kaggle.com/datasets/shameinew/insect-images-with-scientific-names/data
 2. **Created environment**
     - Set up a Python virtual environment for dependency management.
 3. **Installed dependencies**
